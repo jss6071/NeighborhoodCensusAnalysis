@@ -1,4 +1,4 @@
-# NeighborhoodCensusAnalysis
+# Neighborhood Census Analysis
 
 You are meeting with a new city planner for Kingston, who is a successful planner from Ottawa with almost no knowledge about Kingston. She is looking for a brief presentation (~20 mins) giving an overview of the Kingston neighbourhoods and highlighting any opportunities for improvement in the city.
 Use the "Neighbourhood Census Profiles - Income, Occupation, & Education" as your base data set from Open Data Kingston, and any analysis and presentation tools you like.
